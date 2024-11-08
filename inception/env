@@ -1,0 +1,18 @@
+DOMAIN_NAME=migumar2.42.fr
+
+# MYSQL SETUP
+MYSQL_ROOT_PASSWORD=1234
+MYSQL_USER=migumar2
+MYSQL_PASSWORD=12345
+MYSQL_DATABASE=wp_database
+
+# WORDPRESS SETUP
+WP_ADMIN_USER=migumar2
+WP_ADMIN_PASSWORD=12345
+WP_ADMIN_EMAIL=migumar2@student.42malaga.com
+WP_URL=https://migumar2.42.fr
+WP_TITLE=MyWordpressBlog
+WP_USER=migumar2author
+WP_USER_EMAIL=migumar2author@student.42malaga.com
+WP_USER_PASSWORD=1234
+DB_HOST=mariadb

@@ -31,5 +31,5 @@
 
 ## ▪️ Contact me 📩
 
-Email: miguelmartinfernandez94@gmail.com
-Linkedin: www.linkedin.com/in/migumar2
+<p>Email: miguelmartinfernandez94@gmail.com</p>
+<p>Linkedin: www.linkedin.com/in/migumar2</p>
